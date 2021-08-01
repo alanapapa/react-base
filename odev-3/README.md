@@ -5,6 +5,7 @@ Ekran aşadağı görseldeki gibi olacaktır.
 
 ![preview](./preview.jpeg)
 # Result
+### [https://alanapapa.github.io/weather-app/](https://alanapapa.github.io/weather-app/)
 ![result](./result.png)
 
 ## Gereksinimler
