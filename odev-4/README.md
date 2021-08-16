@@ -7,6 +7,10 @@
 
 ***
 
+![tests](./tests.png)
+
+***
+
 ## Selecting Elements
 
 React Testing Library provides different query methods for selecting elements. Each of those query methods belong to one of the following categories:
